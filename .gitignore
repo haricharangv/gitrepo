@@ -1,0 +1,5 @@
+*.py
+*.net
+*.php
+
+[aeiou]*
